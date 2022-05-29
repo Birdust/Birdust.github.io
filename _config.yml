@@ -21,8 +21,7 @@ highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "t
 url     : https://birdust.github.io/
 baseurl : ''
 title   : 개발 공부 일기장
-description: > # this means to ignore newlines until "Language & timezone"
-  Study
+description: Study
 
 
 ## => Language and Timezone
