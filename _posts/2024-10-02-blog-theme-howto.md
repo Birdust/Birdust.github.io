@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "블로그 테마 적용법"
-categories: junk
+categories: howto
 author: "Birdust"
 meta: "Springfield"
 ---
