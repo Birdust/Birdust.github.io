@@ -1,10 +1,10 @@
 module.exports = {
-  title: "hoodie",
-  description: "Hello :) I'm Hudi who developed gatsby-starter-hoodie theme.",
-  author: "Hudi",
-  siteUrl: "https://devhudi.github.io/gatsby-starter-hoodie/",
+  title: "Dust",
+  description: "Hello :) test",
+  author: "Birdust",
+  siteUrl: "https://birdust.github.io/",
   links: {
-    github: "https://github.com/devHudi",
+    github: "https://github.com/Birdust",
     linkedIn: "https://linkedin.com",
     facebook: "https://www.facebook.com",
     twitter: "https://twitter.com",
@@ -13,8 +13,8 @@ module.exports = {
     medium: "https://medium.com",
     blogger: "https://blogger.com",
     email: "mailto:devhudi@gmail.com",
-    resume: "https://hudi.blog",
-    link: "https://hudi.blog",
+    resume: "https://birdust.github.io/resume/",
+    link: "https://github.com/Birdust",
   },
   useAbout: true,
   // See https://giscus.app/
