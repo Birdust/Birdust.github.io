@@ -19,10 +19,10 @@ module.exports = {
   useAbout: true,
   // See https://giscus.app/
   giscus: {
-    repo: "devHudi/gatsby-starter-hoodie",
-    repoId: "MDEwOlJlcG9zaXRvcnkzNjk4NjMzNTg=",
+    repo: "Birdust/Birdust.github.io",
+    repoId: "R_kgDOHZl3Kg=",
     category: "Comments",
-    categoryId: "DIC_kwDOFguqvs4ChwGy",
+    categoryId: "",
     mapping: "pathname",
     strict: "0",
     reactionsEnabled: "1",
