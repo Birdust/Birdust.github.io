@@ -2,7 +2,7 @@ module.exports = {
   title: "Dust",
   description: "Hello :) test",
   author: "Birdust",
-  siteUrl: "https://birdust.github.io/",
+  siteUrl: "https://birdust.github.io",
   links: {
     github: "https://github.com/Birdust",
     linkedIn: "https://linkedin.com",
@@ -12,7 +12,7 @@ module.exports = {
     instagram: "https://www.instagram.com",
     medium: "https://medium.com",
     blogger: "https://blogger.com",
-    email: "mailto:devhudi@gmail.com",
+    email: "djswl0922@gmail.com",
     resume: "https://birdust.github.io/resume/",
     link: "https://github.com/Birdust",
   },
