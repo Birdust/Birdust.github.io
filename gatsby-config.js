@@ -9,6 +9,9 @@ module.exports = {
     author,
     siteUrl,
   },
+  flags: {
+    PARALLEL_QUERY_RUNNING: true
+  },
   plugins: [
     `gatsby-plugin-catch-links`,
     `gatsby-plugin-robots-txt`,
@@ -79,6 +82,7 @@ module.exports = {
               showCaptions: true,
             },
           },
+          
           {
             resolve: `gatsby-remark-autolink-headers`,
             options: {
@@ -117,12 +121,6 @@ module.exports = {
                 global: false,
               },
               escapeEntities: {},
-            },
-          },
-          {
-            resolve: `gatsby-remark-katex`,
-            options: {
-              strict: `ignore`,
             },
           },
           {
